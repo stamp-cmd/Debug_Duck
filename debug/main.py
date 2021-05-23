@@ -76,7 +76,7 @@ def main():
     #Ask if Use again
     Again = False
     while (Again == False):
-        Repeat = input("Again (Y/n): ")
+        Repeat = input("\nAgain (Y/n): ")
         if (Repeat == "Y" or Repeat == "y"):
             #Repeat the code
             system("cls||clear")
