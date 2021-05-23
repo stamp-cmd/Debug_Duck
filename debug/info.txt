@@ -1,6 +1,9 @@
-You may find Clear screen Error. It affect nothing 
+ERROR: You may find Clear screen Error. It affect nothing.
+INFO: This is Application is digital from of Rubber duck debugging.
+ALERT: The app doesn't share data. It just review. It is open source.
+LOG: https://en.wikipedia.org/wiki/Rubber_duck_debugging.
 
-  __	    ______________
+  __	      ______________
 <(o )___ __/ Quack! Quack!\
  ( ._> /   \______________/
   '---'
@@ -9,4 +12,6 @@ You may find Clear screen Error. It affect nothing
 | I'll help you with this application.	 |
 +----------------------------------------+
 
---Stamp-cmd
+Ducii is duck made with ASCII charaters.
+
+--Stamp-cmd https://github.com/stamp-cmd.
