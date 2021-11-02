@@ -8,11 +8,11 @@ def main():
     print("<(o )___ _/ Quack! Quack! \\")
     print(" ( ._> /  \\_______________/")
     print("  '---'")
-    print("+------------------------------------+")
-    print("| Message:                           |")
-    print("| Hi. I'm Ducii. I'm your assistance.|")
-    print("| I'm you guide for this Application.|")
-    print("+------------------------------------+")
+    print("+-------------------------------------+")
+    print("| Message:                            |")
+    print("| Hi. I'm Ducii. I'm your assistance. |")
+    print("| I'm your guide for this Application.|")
+    print("+-------------------------------------+")
     #Ask if Run or not
     Play = False
     while (Play == False):
